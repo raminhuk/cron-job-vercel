@@ -5,6 +5,6 @@
     {
       "path": "/api/cron/1d",
       "schedule": "0 0 * * *"
-    },
+    }
   ]
 }
