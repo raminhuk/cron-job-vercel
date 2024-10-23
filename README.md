@@ -1,4 +1,5 @@
 ---
+
 name: Vercel Cron Job Example
 slug: vercel-cron
 description: A Next.js app that uses Vercel Cron Jobs to update data at different intervals.
@@ -13,6 +14,7 @@ demoUrl: https://cron-template.vercel.app/
 relatedTemplates:
   - hacker-news-slack-bot
   - cron-og
+    
 ---
 
 # Vercel Cron Job Example
